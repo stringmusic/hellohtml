@@ -1,0 +1,51 @@
+p {
+  color : green;
+  text-indent : 1.9em;
+}
+
+a {
+  color : blue;
+}
+
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size     : 14px;
+  color: navy;
+}
+
+h1 {
+  font-size : 2em;
+  color : darkgreen;
+  line-height: 1.5;
+  word-spacing  : 1em;
+  text-decoration : underline;
+  font-weight: bolder;
+  text-transform: uppercase;
+  text-align: center;
+  border : 5px solid rebeccapurple;
+}
+
+h2 {
+  font-size : 1.5em;
+  color : lightgreen;
+  line-height: 1.25;
+  word-spacing  : 0.75em;
+  text-decoration : overline;
+  font-weight: bold;
+  text-transform: capitalize;
+  border-style : double;
+  border-color: goldenrod;
+}
+
+#tinybody {
+  font-size : 10pt;
+  color : red;
+}
+
+#doublebody {
+  font-size : 2em;
+}
+
+#st {
+  text-decoration : line-through;
+}
